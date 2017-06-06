@@ -1,4 +1,4 @@
-# A Plan to Fight Terrorism
+# A Plan to Fight Terrorism : Request for Comments
 
 This doc based on a discussion that started here http://www.dailykos.com/story/2017/6/3/1668689/-We-have-to-have-a-plan-to-fight-terrorism and at http://civ.works
 
