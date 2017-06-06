@@ -12,7 +12,7 @@ This doc based on a discussion that started here http://www.dailykos.com/story/2
 
 - Win the technical and propaganda wars.  According to this Al Quaeda recruiter, the anti-isis videos are not being created on the same level as the extremely sophisticated recruitment videos.  Get comedians and other entertainers to debunk the daesh message, or get those who have left to help, but do this more effectively.  Also as Hilary said, take down the websites that recruit. http://www.cnn.com/2015/12/18/health/al-quaeda-recruiter-fight-isis-online/
 
-- Address the Hate.  Expand the use of “incitement” laws and RICO to go after the preachers who preach this hateful ideology under circumstances where it is likely that their commands to murder “are intended and likely to be followed.”  I emphasize that the quoted language must be essential to the test.  
+- Stop the Hate.  Expand the use of “incitement” laws and RICO to go after the preachers who preach this hateful ideology under circumstances where it is likely that their commands to murder “are intended and likely to be followed.”  I emphasize that the quoted language must be essential to the test.  
 
 - Vigorously enforce the law everywhere.  According to some accounts, police are not vigorously enforcing laws such as those against domestic violence within tight-knit fundamentalist communities.  Ensure that community policing and relationship building with all members of the community happens in all communities in a jurisdiction.  (citation needed)
 
