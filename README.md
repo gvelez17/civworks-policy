@@ -1,6 +1,6 @@
 # civworks-policy
 
-The purpose of this repo is to develop policy documents collaboratively, with branching and related layers of detail.  This way people can go in different directions on the same policy document and later try to merge them into an agreed whole.
+The purpose of this repo is to develop policy documents and draft legislation collaboratively, with branching and related layers of detail.  This way people can go in different directions on the same policy document and later try to merge them into an agreed whole.
 
 Contributions welcome.
 
