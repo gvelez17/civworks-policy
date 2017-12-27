@@ -14,4 +14,6 @@ The purpose of this repo is to develop policy documents and draft legislation co
 
 Contributions welcome.
 
+If working on the language of a model law, consider starting from an existing real-world law at https://stateinnovation.org/resource/resource/2016-01-18-2011-arizona-chapter-226 or a model bill at http://publicleadershipinstitute.org/model-bills/
+
 Please keep discussions concrete and involved with specific changes you would like to see.  Ranting is understandable, but not here, because we want to keep this repo dedicated to the creation of policy language.
