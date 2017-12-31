@@ -1,6 +1,6 @@
 # civworks-policy
 
-civ.works does not have specific policy positions, but provides a platform for broad participation in the formation of policy and law.
+civ.works does not have specific policy positions, but provides a platform for broad participation in the formation of policy and law.  See also https://github.com/sunlightpolicy/github-for-policy
 
 If you don't like a policy in this repo, you can do something about it:
 
